@@ -8,7 +8,7 @@
         @apply border-b-2 border-white hover:border-b-purple-500
     }
     .base-btn{
-        @apply hover:text-purple-500  active:scale-75 transition-all
+        @apply hover:text-purple-500 active:scale-75 transition-all
     }
 }
 
