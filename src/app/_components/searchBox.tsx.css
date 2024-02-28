@@ -11,3 +11,8 @@
         @apply hover:text-purple-500  active:scale-75 transition-all
     }
 }
+
+input[type="text"]:focus{
+    outline: none;
+    border: none;
+}
